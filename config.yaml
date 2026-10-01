@@ -1,0 +1,4 @@
+# Non-secret settings. Secrets go in environment variables (see README).
+telegram:
+  test_channel_id: -1002940195231   # only posts from this channel are accepted by the webhook
+timezone_offset_minutes: 330        # IST
